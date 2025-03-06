@@ -1,0 +1,8 @@
+[project]
+name = "unit-convertor"
+version = "0.1.0"
+description = "unit-convertor"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+package-mode = false
